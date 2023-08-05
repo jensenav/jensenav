@@ -1,5 +1,5 @@
-- 👋 Hello, I'm Navead Jensen.  My current work is as a civil engineer doing numerical analysis for seismic design of embankment dams.
-- 👀 I'm currently learning more about classification analysis along with all other things Data Science related.  
+- 👋 Hello, I'm Navead Jensen.  I split my time between Machine Learning applications to Geotechnical Engineering problems and numerical analysis for Geotechnical Earthquake Engineering.
+- 👀 I'm currently learning more about classification analysis along with all other things Machine Learning and Data Science related.  
 - 📫 naveadjensen@gmail.com
 
 <!---
